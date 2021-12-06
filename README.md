@@ -27,6 +27,9 @@ An App to track workouts, build with MongoDB with help of MongoDb Atlas connecte
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Contributions
+## Mock
+  ![mock!](./assets/img/workout-tracker.PNG)
+
 
 ## Tests
 
