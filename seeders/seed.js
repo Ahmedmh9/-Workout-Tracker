@@ -22,6 +22,7 @@ const workoutSeed = [
     ],
   },
   {
+    //deployment
     day: new Date(new Date().setDate(new Date().getDate() - 8)),
     exercises: [
       {
